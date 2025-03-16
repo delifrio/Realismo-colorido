@@ -37,6 +37,6 @@ Clique nos vídeos abaixo para começar a jornada no mundo do realismo colorido.
 ### Links:
 
 - [Início do curso](index.html)
-- [Certificado de Conclusão](Fernando Tampa.jpg)
+- [Certificado de Conclusão](Fernando%20Tampa.jpg)
 
 **Boa aprendizagem e boas tatuagens!**
